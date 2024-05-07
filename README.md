@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Varsha Agarwal! 
-- 👀 Passionate about data analysis and aspiring data scientist
+- 👀 Passionate about data analytics and aspiring data scientist
 
 - 💼 <b>Experience</b>: 4 years in data analytics, statistical analysis, and data modeling👨‍💻
 - 🚀 <b>Expertise</b>: Transforming data into actionable insights to drive growth
