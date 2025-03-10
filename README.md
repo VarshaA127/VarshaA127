@@ -9,10 +9,12 @@ My expertise includes Data extraction, statistical data analysis, dashboard and 
 
 - 📫 How to reach me **varshaagarwal127@gmail.com**
   
-<h3 align="left">My Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshaa127&show_icons=true&locale=en&layout=compact" alt="varshaa127" /></p> 
- <br />
+<br />  <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshaa127&show_icons=true&locale=en&layout=compact" alt="varshaa127" /></p> 
+<br /> <br />
+<br /><br /><br /><br />
+<br /><br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varsha-agarwal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -26,6 +28,5 @@ My expertise includes Data extraction, statistical data analysis, dashboard and 
 **{ } Programming:** Python, R, SQL \
 **📊Data Analysis & Visualization:** Power BI, Tableau, Excel \
 **🛢️Database Management:** Data warehouse, Data Lake, Relational Databases (MySQL, MSSQL) \
-**🤖 Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit- 
- learn\
+**🤖 Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering\
 **🔄 Others:** Data Transformation, Data Validation, Data Cleaning, Data Modeling
