@@ -3,7 +3,7 @@
 My expertise includes Data extraction, statistical data analysis, dashboard and report creation, model building, and utilizing statistical insights to drive strategic business decisions.
 
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://varshaa127.github.io/)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=VarshaA127&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
