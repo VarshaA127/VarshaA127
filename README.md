@@ -6,6 +6,9 @@ My expertise includes Data extraction, statistical data analysis, dashboard and 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://varshaa127.github.io/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VarshaA127&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VarshaA127&label=Profile%20views&color=0e75b6&style=flat)
 
 - 📫 How to reach me **varshaagarwal127@gmail.com**
   
