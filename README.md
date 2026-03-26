@@ -13,7 +13,7 @@ My expertise includes Data extraction, statistical data analysis, dashboard and 
 - 📫 How to reach me **varshaagarwal127@gmail.com**
   
 <br /> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshaa127&show_icons=true&locale=en&layout=compact" alt="varshaa127" /></p> 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshaa127&show_icons=true&locale=en&layout=compact" alt="varshaa127" /></p>  -->
 <br /> <br /> <br /><br />
 <br /><br /> <br /><br />
 <h3 align="left">Connect with me:</h3>
